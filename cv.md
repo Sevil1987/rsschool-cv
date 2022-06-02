@@ -1,7 +1,7 @@
 # Sevil Mamedova
 ## Contacts
 ### Phone
-### E-mail: <lakara03@mail.ru>
+### E-mail:  <Lakara03@mail.ri>
 ## About Myself
 ## Skills
 ## Code
