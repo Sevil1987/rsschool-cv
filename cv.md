@@ -9,6 +9,6 @@ I am 35 years old, I am the owner of a pizzeria. In 2019, during the lockdown pe
 * VSCode
 ## Code
 ## Languges
-### Azerbaijan
-### Russian
-### English
++ Azerbaijan 
++ Russian
++ English
