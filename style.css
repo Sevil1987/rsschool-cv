@@ -1,1 +1,32 @@
-h1
+main { font-family: Arial, Helvetica, sans-serif;
+} 
+.wrapper{ ;
+    min-height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex direction: column;
+}
+.containier{background-color: rgb(41, 39, 39);
+    max-width: 1180px; margin: 0px; auto;
+}
+.content{ color: aliceblue;
+    flex: 1 1 auto;
+}
+
+.Skills{
+    padding: 10px 0px 10px 100px;}
+.skills_list {
+    padding: 0px 10px 0px 10px;
+}
+.skills2 {
+    padding: 0px 100px 0px 100px;
+}
+.Skills1{
+    padding:0px 50px 10px 50px;
+
+}
+.skills_tittle {padding-block: 10px 5px 5px;}
+.skilss_row {
+    display: flex;
+justify-content:left;}
+
